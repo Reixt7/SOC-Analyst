@@ -21,7 +21,7 @@
 ### Обнаруженные данные:
 
 **Логин пользователя:**  
-![логин](screenshots/LOGIN.png)
+![логин](screenshots/USER.png)
 
 **Пароль пользователя:**  
 ![пароль](screenshots/PASSWORD.png)
